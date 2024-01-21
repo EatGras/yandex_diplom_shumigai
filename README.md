@@ -28,3 +28,10 @@
        FROM "Orders";
 
 Скриншот результата запроса database2.png
+
+Автоматизация теста.
+
+В файле sendor_stand_request нажать кнопку Run
+
+Скриншот автоматизации Autotest.png 
+
