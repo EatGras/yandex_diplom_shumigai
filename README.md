@@ -32,6 +32,6 @@
 
                                                       Автоматизация теста.
 
-В файле sendor_stand_request нажать кнопку Run
+В файле sender_stand_request нажать кнопку Run
 
 Скриншот автоматизации Autotest.png 
