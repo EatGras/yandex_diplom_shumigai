@@ -1,4 +1,5 @@
 # yandex_diplom_shumigai
+Файлы проекта Pycharm находятся в ветке master
 
 Задание 1 
 
@@ -31,8 +32,6 @@
 
 
                                                       Автоматизация теста.
-Файлы находятся в ветке master
+Файлы проекта Pycharm находятся в ветке master
 
-В файле sender_stand_request нажать кнопку Run
-
-Скриншот автоматизации Autotest.png 
+Скриншот автоматизации Autotest1.png 
